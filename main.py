@@ -2,6 +2,11 @@ import streamlit as st
 from db import create_table, add_record, get_all_records, search_records, delete_record, update_record
 from datetime import datetime
 
+st.set_page_config(
+    page_title="Toll Plaza System",
+    page_icon="🚧"
+)
+
 create_table()
 
 # --- CSS ---
