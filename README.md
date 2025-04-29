@@ -43,5 +43,22 @@ This is a simple and user-friendly **Toll Plaza Management System** built using 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/toll-plaza-management.git
-cd toll-plaza-management
+git clone https://github.com/hr1thikkholia/Toll-Plaza-Management-System---Basic.git
+```
+
+Install Dependencies
+pip install -r requirements.txt
+
+Run the App
+streamlit run main.py
+
+🔑 Default login:
+  Username: admin
+  Password: admin123
+
+
+License:
+MIT License – free to use and modify.
+
+Author:
+Developed by Hrithik Kholia
