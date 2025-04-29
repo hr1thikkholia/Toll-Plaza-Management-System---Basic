@@ -15,7 +15,6 @@ This is a simple and user-friendly **Toll Plaza Management System** built using 
 - 🚪 **Logout with session-based state**
 - 🎨 Clean and responsive **Streamlit UI**
 - 💾 **SQLite database** for local storage
-- 🖼️ **Custom logo and layout styling**
 
 ---
 
