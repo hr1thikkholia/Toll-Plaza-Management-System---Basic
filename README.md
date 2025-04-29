@@ -45,13 +45,13 @@ This is a simple and user-friendly **Toll Plaza Management System** built using 
 git clone https://github.com/hr1thikkholia/Toll-Plaza-Management-System---Basic.git
 ```
 
-Install Dependencies
+### 2. Install Dependencies
 pip install -r requirements.txt
 
-Run the App
+### 3. Run the App
 streamlit run main.py
 
-🔑 Default login:
+### 🔑 Default login:
   Username: admin
   Password: admin123
 
